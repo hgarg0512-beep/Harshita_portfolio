@@ -1,4 +1,4 @@
-<img width="1485" height="811" alt="3" src="https://github.com/user-attachments/assets/5d9d0b1e-9812-49f3-9956-9c5428fc855e" /># Personal Portfolio
+# Personal Portfolio
 A responsive portfolio website showcasing my profile, skills, projects and professional links.
 
 ## Live Portfolio
