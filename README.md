@@ -1,16 +1,15 @@
-# Personal Portfolio
+<img width="1485" height="811" alt="3" src="https://github.com/user-attachments/assets/5d9d0b1e-9812-49f3-9956-9c5428fc855e" /># Personal Portfolio
 A responsive portfolio website showcasing my profile, skills, projects and professional links.
 
 ## Live Portfolio
 
+<img width="1720" height="858" alt="1 " src="https://github.com/user-attachments/assets/e2594274-f8d5-4158-9697-5cd9faf17224" />
+<img width="1543" height="887" alt="2" src="https://github.com/user-attachments/assets/549428c3-8686-4c7d-9a11-45fb37feb09d" />
+<img width="1485" height="811" alt="3" src="https://github.com/user-attachments/assets/ad385537-5550-49bf-8ab3-0c5877308d30" />
+<img width="1500" height="797" alt="4" src="https://github.com/user-attachments/assets/85e50327-e4c6-4ab4-8b9f-de763f8a4a60" />
 
-<img width="1351" height="623" alt="Screenshot 2026-10-22 225246" src="https://github.com/user-attachments/assets/59b544e8-12f8-4f75-af49-470dc7c0c352" />
 
-<img width="1353" height="609" alt="Screenshot 2026-10-22 225254" src="https://github.com/user-attachments/assets/e7420fb9-37ea-4a58-8bab-a80eda388552" />
 
-<img width="1334" height="609" alt="Screenshot 2026-10-22 225300" src="https://github.com/user-attachments/assets/72abf9f4-bae3-4013-9242-6d41aabcc67f" />
-
-<img width="1345" height="603" alt="Screenshot 2026-10-22 225310" src="https://github.com/user-attachments/assets/4f1e9d5e-7616-4d19-9469-081c05288d34" />
 
 
 
